@@ -1,0 +1,5 @@
+node_modules
+dist
+.venv
+.claude
+.DS_Store
